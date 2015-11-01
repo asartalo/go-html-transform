@@ -4,7 +4,7 @@
 package selector
 
 import (
-	"code.google.com/p/go-html-transform/h5"
+	"github.com/asartalo/go-html-transform/h5"
 
 	"fmt"
 	"strings"
